@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Provo 86th YSA Ward//Bowling Night//EN
+BEGIN:VEVENT
+UID:bowling-night-2025@byu.edu
+DTSTAMP:20250509T230000Z
+DTSTART:20250520T010000Z
+DTEND:20250520T030000Z
+SUMMARY:Bowling Night – Provo 86th YSA Ward
+DESCRIPTION:Free pizza & drinks! Come hang out with the 86th Ward at the BYU Bowling Alley.
+LOCATION:BYU Bowling Alley, 1171 Wilkinson Student Ctr, Provo, UT 84602 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
