@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Relief Society//Spring Picnic//EN
+BEGIN:VEVENT
+UID:spring-picnic-2025@reliefsociety.org
+DTSTAMP:20250510T230000Z
+DTSTART:20250531T000000Z
+DTEND:20250531T020000Z
+SUMMARY:Spring Picnic – Ministering Sisters Activity
+DESCRIPTION:Come join us for a picnic and help serve your ministering sisters!
+LOCATION:4988 N South Fork Rd, Provo, UT 84601 (South Fork Park)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
