@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Provo YSA 6th Stake//International Student Activity//EN
+BEGIN:VEVENT
+UID:international-activity-2025@ysa6.org
+DTSTAMP:20250510T230000Z
+DTSTART:20250624T000000Z
+DTEND:20250624T020000Z
+SUMMARY:International Student Activity – Provo YSA 6th Stake
+DESCRIPTION:Join us for food, games, and connection at the UPC gym. Bring some food to share that reminds you of home (if you want)!
+LOCATION:UPC Gym, 35 E University Pkwy, Provo, UT 84604
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
