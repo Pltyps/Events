@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Community Swap//Clothing & Decor Swap//EN
+BEGIN:VEVENT
+UID:clothing-decor-swap-2025@swapspace.org
+DTSTAMP:20250510T230000Z
+DTSTART:20250628T160000Z
+DTEND:20250628T180000Z
+SUMMARY:Clothing & Decor Swap
+DESCRIPTION:Bring clothes & home decor to exchange. A fun way to refresh your space and closet with your neighbors!
+LOCATION:Apt 132
+ORGANIZER;CN=Swap Host Team:mailto:noreply@swapspace.org
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
