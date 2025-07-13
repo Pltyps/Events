@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Red Cross//Blood Drive Event//EN
+BEGIN:VEVENT
+UID:blood-drive-2025@redcross.org
+DTSTAMP:20250509T230000Z
+DTSTART:20250513T170000Z
+DTEND:20250513T230000Z
+SUMMARY:Provo YSA 6th Stake Blood Drive
+DESCRIPTION:Give the gift of life. Visit redcrossblood.org and use code ysa6 to make an appointment. Each donor receives a $20 e-gift card.
+LOCATION:35 E University Pkwy, Provo, UT 84604
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

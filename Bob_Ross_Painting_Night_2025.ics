@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creative Events//Bob Ross Painting Night//EN
+BEGIN:VEVENT
+UID:bob-ross-night-2025@paintnight.org
+DTSTAMP:20250510T230000Z
+DTSTART:20250708T020000Z
+DTEND:20250708T040000Z
+SUMMARY:Bob Ross Painting Night
+DESCRIPTION:Come paint like Bob Ross! All materials provided. Just bring yourself and your happy little trees.
+LOCATION:Green Benches
+ORGANIZER;CN=Event Host Team:mailto:noreply@paintnight.org
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

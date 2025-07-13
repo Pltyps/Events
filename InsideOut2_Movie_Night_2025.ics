@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Provo Parks & Rec//Movies in the Park//EN
+BEGIN:VEVENT
+UID:inside-out-2-2025@provo.utah.gov
+DTSTAMP:20250510T230000Z
+DTSTART:20250603T020000Z
+DTEND:20250603T040000Z
+SUMMARY:Inside Out 2 – Movies in the Park
+DESCRIPTION:Enjoy a free outdoor showing of Inside Out 2 as part of the Provo Parks & Rec Movies in the Park series.
+LOCATION:Rock Canyon Park, Provo, UT
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

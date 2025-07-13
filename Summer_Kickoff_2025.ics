@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stake Events//Summer Kickoff//EN
+BEGIN:VEVENT
+UID:summer-kickoff-2025@oremstake.org
+DTSTAMP:20250509T230000Z
+DTSTART:20250514T000000Z
+DTEND:20250514T020000Z
+SUMMARY:Summer Kickoff – 6th Stake Activity
+DESCRIPTION: Food, activities, and fun! Come meet new friends and hang out for Spring & Summer!
+LOCATION:Orem Northeast Meetinghouse (NE Costco Chapel), 710 S 800 E, Orem, UT 84097
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
