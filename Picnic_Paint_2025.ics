@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Creative YSA Events//Picnic + Paint//EN
+BEGIN:VEVENT
+UID:picnic-paint-2025@byuysa.org
+DTSTAMP:20250510T230000Z
+DTSTART:20250724T020000Z
+DTEND:20250724T040000Z
+SUMMARY:Picnic + Paint
+DESCRIPTION:Come join us for some watercolor painting and any food you want to bring!
+LOCATION:BYU Duck Pond, 441 E 800 N St, Provo, UT 84606
+ORGANIZER;CN=YSA Event Team:mailto:noreply@byuysa.org
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
