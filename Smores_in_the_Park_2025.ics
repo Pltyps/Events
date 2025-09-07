@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ward Activity//S'mores in the Park//EN
+BEGIN:VEVENT
+UID:smores-park-2025@wardactivities.org
+DTSTAMP:20250820T000000Z
+DTSTART:20250909T003000Z
+DTEND:20250909T023000Z
+SUMMARY:S'mores in the Park
+DESCRIPTION:Come get to know the ward! Meet at the tin benches at 6:00 PM for carpooling. Then enjoy s'mores, games, and fun at South Fork Park.
+LOCATION:South Fork Park, Provo, UT
+ORGANIZER;CN=Ward Activities Committee:mailto:noreply@wardactivities.org
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
