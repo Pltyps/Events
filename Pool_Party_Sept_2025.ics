@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ward Activity//Pool Party//EN
+BEGIN:VEVENT
+UID:pool-party-sept-2025@wardactivities.org
+DTSTAMP:20250820T000000Z
+DTSTART:20250913T003000Z
+DTEND:20250913T023000Z
+SUMMARY:Pool Party – BBQ & Swimming
+DESCRIPTION:Join us for BBQ, swimming, and fun! Meet at the tin benches at 6:00 PM for carpooling before the event.
+LOCATION:1165 Grove Creek Drive, Pleasant Grove, UT 84062
+ORGANIZER;CN=Ward Activities Committee:mailto:noreply@wardactivities.org
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
