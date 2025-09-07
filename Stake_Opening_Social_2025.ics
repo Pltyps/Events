@@ -1,16 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Provo YSA 6th Stake//Opening Social//EN
+PRODID:-//Provo YSA 6th Stake//Fall Kickoff//EN
 BEGIN:VEVENT
 UID:stake-opening-social-2025@ysa6.org
 DTSTAMP:20250820T000000Z
 DTSTART:20250910T000000Z
 DTEND:20250910T020000Z
-SUMMARY:Stake Opening Social
-DESCRIPTION:We’ll begin in the North Chapel of the SW Meetinghouse with a message from President Matthews.\nThen food, activities, and fun! Come meet new friends!
-LOCATION:Orem Northeast ("Orem Costco") Meetinghouse, 735 E 800 S, Orem, UT 84097
+SUMMARY:Fall Kickoff – 6th Stake Activity
+DESCRIPTION:We’ll begin in the North Chapel of the Southwest Meetinghouse with a message from President Mathews.\nAfter: food, activities, and fun! Come and meet new friends!
+LOCATION:Orem Southwest YSA Meetinghouse (SW Costco Chapel), 735 E 800 S, Orem, UT 84097
 ORGANIZER;CN=Stake Activities:mailto:noreply@ysa6.org
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
