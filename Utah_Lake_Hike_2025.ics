@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FHE Events//Utah Lake Hike//EN
+BEGIN:VEVENT
+UID:utah-lake-hike-2025@fheevents.org
+DTSTAMP:20250820T000000Z
+DTSTART:20250916T003000Z
+DTEND:20250916T023000Z
+SUMMARY:Utah Lake Hike – FHE
+DESCRIPTION:Meet at green benches at 6:30 PM for rides.\nAddress: Utah Lake Shoreline Trail, Vineyard, UT.\nSnacks/drinks provided.
+LOCATION:Utah Lake Shoreline Trail, Vineyard, UT
+ORGANIZER;CN=FHE Committee:mailto:noreply@fheevents.org
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
