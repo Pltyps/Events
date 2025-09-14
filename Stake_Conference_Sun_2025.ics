@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stake Events//Stake Conference Sunday Session//EN
+BEGIN:VEVENT
+UID:stake-conference-sun-main-2025@ysa6.org
+DTSTAMP:20250820T000000Z
+DTSTART:20250928T160000Z
+DTEND:20250928T180000Z
+SUMMARY:Stake Conference – Sunday Session
+DESCRIPTION:Invite your friends and people you minister to! Stake Conference Sunday Session at the Marriott Center.\nMaps: https://maps.app.goo.gl/hsov8Rcd5Myj5XuR9
+LOCATION:Marriott Center, BYU, Provo, UT
+ORGANIZER;CN=Stake Leadership:mailto:noreply@ysa6.org
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
