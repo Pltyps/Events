@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Stake Events//Stake Conference Sunday Leadership Session//EN
+BEGIN:VEVENT
+UID:stake-conference-sun-2025@ysa6.org
+DTSTAMP:20250820T000000Z
+DTSTART:20250928T140000Z
+DTEND:20250928T153000Z
+SUMMARY:Stake Conference – Sunday Ward/Stake Council Leadership Session
+DESCRIPTION:Stake Conference Sunday Ward/Stake Council Leadership Session.\nInvite your friends!\nMaps: https://maps.app.goo.gl/xh6XTKpEsvyaLriP9
+LOCATION:TNRB Room 151
+ORGANIZER;CN=Stake Leadership:mailto:noreply@ysa6.org
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
